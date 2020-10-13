@@ -1,0 +1,784 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Aprt",
+            "request": "launch",
+            "mainClass": "Aprt"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VILNET",
+            "request": "launch",
+            "mainClass": "try1.VILNET",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CHEFEZQ",
+            "request": "launch",
+            "mainClass": "try1.CHEFEZQ",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DDIMMST",
+            "request": "launch",
+            "mainClass": "try1.DDIMMST",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - temp",
+            "request": "launch",
+            "mainClass": "try1.temp",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rec",
+            "request": "launch",
+            "mainClass": "multistage.Rec",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sign",
+            "request": "launch",
+            "mainClass": "practice.Sign",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrDesc",
+            "request": "launch",
+            "mainClass": "try1.ArrDesc",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintScs",
+            "request": "launch",
+            "mainClass": "try1.PrintScs",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NQueen<BackTrack>",
+            "request": "launch",
+            "mainClass": "nQueen.NQueen",
+            "projectName": "BackTrack"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GraphColor<BackTrack>",
+            "request": "launch",
+            "mainClass": "prac.GraphColor",
+            "projectName": "BackTrack"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubsetSum<BackTrack>",
+            "request": "launch",
+            "mainClass": "prac.SubsetSum",
+            "projectName": "BackTrack"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A118<CodeForces>",
+            "request": "launch",
+            "mainClass": "a.A118",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A160<CodeForces>",
+            "request": "launch",
+            "mainClass": "a.A160",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A466<CodeForces>",
+            "request": "launch",
+            "mainClass": "a.A466",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A58<CodeForces>",
+            "request": "launch",
+            "mainClass": "a.A58",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A71<CodeForces>",
+            "request": "launch",
+            "mainClass": "a.A71",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A1<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.A1",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A2<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.A2",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A3<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.A3",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A4<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.A4",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A5<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.A5",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-A6<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.A6",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B1<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.B1",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B4<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.B4",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B5<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.B5",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B6<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.B6",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B7<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.B7",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-B8<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.B8",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-C1<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.C1",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-C4<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.C4",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-C6<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.C6",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cont<CodeForces>",
+            "request": "launch",
+            "mainClass": "practice.Cont",
+            "projectName": "CodeForces"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TTUPLE<Codechef>",
+            "request": "launch",
+            "mainClass": "ttuple.TTUPLE",
+            "projectName": "Codechef"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Add<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.Add",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigitGame<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.DigitGame",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fib1<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.Fib1",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Fibo<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.Fibo",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GCD<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.GCD",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LCM<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.LCM",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LSum<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.LSum",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LastDig<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.LastDig",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumSqFib<Coursera>",
+            "request": "launch",
+            "mainClass": "practice.SumSqFib",
+            "projectName": "Coursera"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountSubsetSum<Dynamic>",
+            "request": "launch",
+            "mainClass": "gfg.CountSubsetSum",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EqualpartitionRecursion<Dynamic>",
+            "request": "launch",
+            "mainClass": "gfg.EqualpartitionRecursion",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LargestDivisiblePairBrute<Dynamic>",
+            "request": "launch",
+            "mainClass": "gfg.LargestDivisiblePairBrute",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubsetSumDivisibleByM<Dynamic>",
+            "request": "launch",
+            "mainClass": "gfg.SubsetSumDivisibleByM",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultiStage<Dynamic>",
+            "request": "launch",
+            "mainClass": "multistage.MultiStage",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CountSubsetSum<Dynamic>(1)",
+            "request": "launch",
+            "mainClass": "youtube.CountSubsetSum",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knapsack<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.Knapsack",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LCsubstring<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.LCsubstring",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LongComSeq<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.LongComSeq",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinNumCoins<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.MinNumCoins",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinSubsetDiff<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.MinSubsetDiff",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintLCS<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.PrintLCS",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RemDig<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.RemDig",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RodCutting<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.RodCutting",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubsetSum<Dynamic>",
+            "request": "launch",
+            "mainClass": "youtube.SubsetSum",
+            "projectName": "Dynamic"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bfs<Graph>",
+            "request": "launch",
+            "mainClass": "bfs.bfs",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ByBFS<Graph>",
+            "request": "launch",
+            "mainClass": "checkLoop.ByBFS",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ByDFS<Graph>",
+            "request": "launch",
+            "mainClass": "checkLoop.ByDFS",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dfs<Graph>",
+            "request": "launch",
+            "mainClass": "dfs.Dfs",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Kruskal<Graph>",
+            "request": "launch",
+            "mainClass": "mst.Kruskal",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Prims<Graph>",
+            "request": "launch",
+            "mainClass": "mst.Prims",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practice<Graph>",
+            "request": "launch",
+            "mainClass": "mst.practice",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ByBFS<Graph>(1)",
+            "request": "launch",
+            "mainClass": "shortestPath.ByBFS",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dijktra<Graph>",
+            "request": "launch",
+            "mainClass": "shortestPath.Dijktra",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Graph<Graph>",
+            "request": "launch",
+            "mainClass": "topologicalOrder.Graph",
+            "projectName": "Graph"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JobSequenceWithDeadLines<Greedy>",
+            "request": "launch",
+            "mainClass": "jobSequencing.JobSequenceWithDeadLines",
+            "projectName": "Greedy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Knap<Greedy>",
+            "request": "launch",
+            "mainClass": "knapSack.Knap",
+            "projectName": "Greedy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Pat<Greedy>",
+            "request": "launch",
+            "mainClass": "pattern.Pat",
+            "projectName": "Greedy"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BredthFirst<Practice>",
+            "request": "launch",
+            "mainClass": "BredthFirst",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DepthFirst<Practice>",
+            "request": "launch",
+            "mainClass": "DepthFirst",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ListsOfDepths<Practice>",
+            "request": "launch",
+            "mainClass": "ListsOfDepths",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinimalTree<Practice>",
+            "request": "launch",
+            "mainClass": "MinimalTree",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-InOrderSuccessor<Practice>",
+            "request": "launch",
+            "mainClass": "ancestor.InOrderSuccessor",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-LeastCommonAncestor<Practice>",
+            "request": "launch",
+            "mainClass": "ancestor.LeastCommonAncestor",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Balanced<Practice>",
+            "request": "launch",
+            "mainClass": "balanced.Balanced",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfPaths<Practice>",
+            "request": "launch",
+            "mainClass": "pathSums.SumOfPaths",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Root<Practice>",
+            "request": "launch",
+            "mainClass": "rootofproblem.Root",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MergeSort<Practice>",
+            "request": "launch",
+            "mainClass": "rough.MergeSort",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SubTree<Practice>",
+            "request": "launch",
+            "mainClass": "subtree.SubTree",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ValidateBst<Practice>",
+            "request": "launch",
+            "mainClass": "validateBst.ValidateBst",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VerticalOrder2<Practice>",
+            "request": "launch",
+            "mainClass": "verticalOrder.VerticalOrder2",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VerticalTop<Practice>",
+            "request": "launch",
+            "mainClass": "verticalOrder.VerticalTop",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-verticalOrder<Practice>",
+            "request": "launch",
+            "mainClass": "verticalOrder.verticalOrder",
+            "projectName": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Books<Try>",
+            "request": "launch",
+            "mainClass": "try1.Books",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Candy<Try>",
+            "request": "launch",
+            "mainClass": "try1.Candy",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CodeA<Try>",
+            "request": "launch",
+            "mainClass": "try1.CodeA",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CodeChefSep4<Try>",
+            "request": "launch",
+            "mainClass": "try1.CodeChefSep4",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Code_MISSING_POINT<Try>",
+            "request": "launch",
+            "mainClass": "try1.Code_MISSING_POINT",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Codechef7<Try>",
+            "request": "launch",
+            "mainClass": "try1.Codechef7",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinChange<Try>",
+            "request": "launch",
+            "mainClass": "try1.CoinChange",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CoinComb<Try>",
+            "request": "launch",
+            "mainClass": "try1.CoinComb",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DP_CC_MIN<Try>",
+            "request": "launch",
+            "mainClass": "try1.DP_CC_MIN",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DiceComb<Try>",
+            "request": "launch",
+            "mainClass": "try1.DiceComb",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Dynamic_C_C_NOW<Try>",
+            "request": "launch",
+            "mainClass": "try1.Dynamic_C_C_NOW",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Even<Try>",
+            "request": "launch",
+            "mainClass": "try1.Even",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GoldMine<Try>",
+            "request": "launch",
+            "mainClass": "try1.GoldMine",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JulyFifth<Try>",
+            "request": "launch",
+            "mainClass": "try1.JulyFifth",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MinSubsetSum<Try>",
+            "request": "launch",
+            "mainClass": "try1.MinSubsetSum",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PairWisePRo<Try>",
+            "request": "launch",
+            "mainClass": "try1.PairWisePRo",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TileFilling<Try>",
+            "request": "launch",
+            "mainClass": "try1.TileFilling",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Trap<Try>",
+            "request": "launch",
+            "mainClass": "try1.Trap",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UglyNumber<Try>",
+            "request": "launch",
+            "mainClass": "try1.UglyNumber",
+            "projectName": "Try"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Books",
+            "request": "launch",
+            "mainClass": "Books"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DigitGame",
+            "request": "launch",
+            "mainClass": "DigitGame"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FibonacciHuge",
+            "request": "launch",
+            "mainClass": "FibonacciHuge"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FibonacciPartialSum",
+            "request": "launch",
+            "mainClass": "FibonacciPartialSum"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FibonacciSumLastDigit",
+            "request": "launch",
+            "mainClass": "FibonacciSumLastDigit"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FibonacciSumSquares",
+            "request": "launch",
+            "mainClass": "FibonacciSumSquares"
+        }
+    ]
+}
